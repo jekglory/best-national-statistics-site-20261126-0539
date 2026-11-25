@@ -1,0 +1,43 @@
+Indicator,Value,Topic,Year,Source
+Resident population,8.42 million,Population,2025,Table P-01
+Population growth,0.4% per year,Population,2025,Table P-01
+Median age,41.2 years,Population,2025,Table P-02
+Births,"86,400",Population,2025,Table V-01
+Deaths,"71,200",Population,2025,Table V-01
+Net migration,"+18,300 people",Population,2025,Table P-04
+People living in towns and cities,68.4%,Population,2025,Table P-05
+Households,3.31 million,Population,2025,Table P-06
+Average household size,2.5 people,Population,2025,Table P-06
+Gross domestic product,268.4 billion ALM,Economy,2025,Table N-02
+GDP growth,2.5% per year,Economy,2025,Table N-02
+GDP per person,"31,876 ALM",Economy,2025,Table N-02
+Exports of goods and services,84.6 billion ALM,Economy,2025,Table N-07
+Imports of goods and services,79.2 billion ALM,Economy,2025,Table N-07
+Trade balance,+5.4 billion ALM,Economy,2025,Table N-07
+Government debt,41.2% of GDP,Economy,2025,Table N-09
+Business investment,18.9% of GDP,Economy,2025,Table N-03
+Unemployment rate,5.4%,Labour,2025,Table L-04
+Employment rate (ages 15–64),74.8%,Labour,2025,Table L-02
+People in work,4.15 million,Labour,2025,Table L-01
+Median monthly wage,"3,120 ALM",Labour,2025,Table E-02
+Average working week,38.4 hours,Labour,2025,Table L-08
+Part-time workers,18.6% of jobs,Labour,2025,Table L-03
+Job vacancies,"96,000",Labour,2025,Table L-09
+Youth unemployment (ages 15–24),11.8%,Labour,2025,Table L-05
+Consumer price inflation,2.7% per year,Prices,2025,Table C-01
+Food price inflation,3.1% per year,Prices,2025,Table C-04
+Housing cost inflation,2.4% per year,Prices,2025,Table C-04
+Average rent two-bedroom flat,940 ALM a month,Prices,2025,Table C-06
+House price index,142.6 (2020 = 100),Prices,2025,Table C-07
+Life expectancy at birth,78.4 years,Health,2025,Table V-03
+Infant mortality,3.8 per 1,000 births,Health,2025,Table V-02
+Hospital beds,4.1 per 1,000 people,Health,2025,Table H-01
+Doctors,3.6 per 1,000 people,Health,2025,Table H-02
+Health spending,9.4% of GDP,Health,2025,Table H-03
+Adults reporting good health,71.2%,Health,2025,Table H-04
+Adult literacy,99.1%,Education,2025,Table D-01
+Young people in education or training,92.4%,Education,2025,Table D-02
+Tertiary attainment (ages 25–34),46.3%,Education,2025,Table D-03
+Pupils per teacher primary,16.8,Education,2025,Table D-04
+Education spending,5.1% of GDP,Education,2025,Table D-05
+School leavers with a qualification,94.7%,Education,2025,Table D-02
